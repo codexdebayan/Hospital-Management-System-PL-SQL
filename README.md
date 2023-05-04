@@ -1,6 +1,6 @@
 # Hospital-Management-System-PL-SQL
 
-#Report format to be uploaded soon
+# Report format to be uploaded soon
 
 ER - Diagram
 
